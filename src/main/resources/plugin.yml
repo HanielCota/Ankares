@@ -1,0 +1,3 @@
+name: Ankares
+version: '${project.version}'
+main: com.ankares.hanielfialho.Ankares
